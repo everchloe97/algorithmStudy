@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | 2022 / 08 / 06  | python | 문자열 치환 |  replace / set / dict / zip |
 | 2022 / 08 / 07  | python | 소수 만들기 |  list / map / sum |
-| 2022 / 08 / 08  | python | 완전 탐색 |  list / map / sum |
+| 2022 / 08 / 08  | python | 완전 탐색 |  list / pop / append |
 | 2022 / 08 / 08  | python | 그리디 |  list / map / sum |
 | 2022 / 08 / 08  | python | 스택 & 큐 |  list / map / sum |
 
