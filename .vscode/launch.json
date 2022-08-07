@@ -6,8 +6,8 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal",
-      //      "args": ["<", "${relativeFileDirname}/${fileBasenameNoExtension}.txt"]
+             "console": "integratedTerminal",
+             "args": ["<", "${relativeFileDirname}/${fileBasenameNoExtension}.txt"]
         }
     ]
 }

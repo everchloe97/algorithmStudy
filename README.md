@@ -2,18 +2,20 @@
 <br></br>
 
 # Solved
-
+(solved 폴더 하위 파일 참조)
 
 | 일자 | 언어 | 구분 | 정리 |
 | --- | --- | --- | --- |
 | 2022 / 08 / 06  | python | 문자열 치환 |  replace / set / dict / zip |
 | 2022 / 08 / 07  | python | 소수 만들기 |  list / map / sum |
-
+| 2022 / 08 / 08  | python | 완전 탐색 |  list / map / sum |
+| 2022 / 08 / 08  | python | 그리디 |  list / map / sum |
+| 2022 / 08 / 08  | python | 스택 & 큐 |  list / map / sum |
 
 <br></br>
 - - -
 ## convention
-* 풀이 완료 : 문제 이름 + clear
+* 풀이 완료 : 문제 이름
 * 풀이 진행 중 : 문제 이름 + ing
 * 풀이 보완 : 문제 이름 + develop
 <br></br>
