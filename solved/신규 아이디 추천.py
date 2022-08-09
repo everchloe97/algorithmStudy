@@ -45,20 +45,12 @@ print(output)
 
 
 #@ 풀이
-# 4번의 경우 "=.=" 가 input으로 주어지는 테스트케이스가 있었는데
-# . 만 남게 되는 경우 슬라이싱에서 오류가 발생하여 len>1 추가
+# 4번은 answer가 있어야 array out of index error가 나지 않는다.
+# answer = "" (빈 string) 만 남게 되는 경우 indexing에서 오류가 발생하여 len>1 추가함.
+# 혹은 아래의 풀이도 괜찮다고 생각된다.
+# if answer[0:1] == "." :  answer = answer[1:] 
 
 #@ 참고 (정규식을 사용한 풀이가 제일 깔끔한 것 같다.)
 # https://school.programmers.co.kr/learn/courses/30/lessons/72410/solution_groups?language=python3
-# import re
-# 
-# def solution(new_id):
-#     st = new_id
-#     st = st.lower()
-#     st = re.sub('[^a-z0-9\-_.]', '', st)
-#     st = re.sub('\.+', '.', st)
-#     st = re.sub('^[.]|[.]$', '', st)
-#     st = 'a' if len(st) == 0 else st[:15]
-#     st = re.sub('^[.]|[.]$', '', st)
-#     st = st if len(st) > 2 else st + "".join([st[-1] for i in range(3-len(st))])
-#     return st
+
+# for vs while 설명 (https://blog.naver.com/hjy5405/222595185469)
