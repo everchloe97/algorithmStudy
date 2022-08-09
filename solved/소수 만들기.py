@@ -1,9 +1,8 @@
 # @문제
-# 주어진 숫자 중 3개의 수를 더했을 때 소수가 되는 경우의 개수
-# nums.length : 3 이상 50 이하 & 중복 없음.
-
+'''주어진 숫자 중 3개의 수를 더했을 때 소수가 되는 경우의 개수
+nums.length : 3 이상 50 이하 & 중복 없음.
+'''
 from itertools import combinations
-from math import sqrt
 
 def primeNumberCount(nums):
     prime_count = 0     # 소수 개수
