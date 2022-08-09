@@ -3,8 +3,6 @@
 # 숫자 1924에서 수 두 개를 제거하면 [19, 12, 14, 92, 94, 24] 를 만들 수 있습니다. 
 # 이 중 가장 큰 숫자는 94 입니다.
 
-from itertools import combinations
-
 def largestNumber(input, k):
     
     stack = []             # 큰 수를 만들 list를 생성함.
