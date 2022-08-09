@@ -9,7 +9,7 @@
 | 2022 / 08 / 07  | python | 소수 만들기 |  list / map / sum |
 | 2022 / 08 / 08  | python | 그리디 |  list | pop / append |
 | 2022 / 08 / 09  | python | 메서드 활용 | lower / isdigit / replace / strip |
-| 2022 / 08 / 09  | python | 스택 & 큐 |   |
+| 2022 / 08 / 09  | python & js | 스택 & 큐 | deque | pop |
 
 
 <br></br>
