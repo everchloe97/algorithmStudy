@@ -1,5 +1,11 @@
 # Algorithm - Study 💡
 
+* 목적 : 현재 내게 부족한 부분을 채우기 위한 노력. 사고력 향상
+* 목표 : 올해 (2022/12/31) 내 프로그래머스 level1, 2 단계 모두 풀기. 
+* 현재 달성 : [2022/08/10 기준](https://user-images.githubusercontent.com/57704568/183781119-e78aef78-a7dd-42f0-8c8c-e93dea3e807f.PNG)
+
+<br></br>
+
 # Solved
 (solved 폴더 하위 파일 참조)
 
@@ -7,10 +13,10 @@
 | --- | --- | --- | --- |
 | 2022 / 08 / 06  | python | 문자열 치환 |  replace / set / dict / zip |
 | 2022 / 08 / 07  | python | 소수 만들기 |  list / map / sum |
-| 2022 / 08 / 08  | python | 그리디 |  list | pop / append |
+| 2022 / 08 / 08  | python | 그리디 |  list / pop / append |
 | 2022 / 08 / 09  | python | 메서드 활용 | lower / isdigit / replace / strip |
 | 2022 / 08 / 09  | python & js | 스택 & 큐 | deque | pop |
-
+| 2022 / 08 / 12  | js | 문자열 뒤집기 | reverse, split |
 
 <br></br>
 - - -
